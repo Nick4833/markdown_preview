@@ -4,7 +4,7 @@ This project was made as a part of the [DevJam](https://www.devjam.org/) project
 ## Demo
 The users can enter Mark Down code on the Code Editor on the left side of the screen. The application will then show the HTML render on the right side of the screen. The user can copy the code via the Copy button on the bottom right side of the screen.
 
-![Demo](/demo.gif "Demo")
+![Demo](/public/demo.gif "Demo")
 
 **Link to the website** : https://livemarkdownpreview.com/
 
