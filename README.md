@@ -6,7 +6,7 @@ The users can enter Mark Down code on the Code Editor on the left side of the sc
 
 ![Demo](/public/demo.gif "Demo")
 
-**Link to the website** : https://livemarkdownpreview.com/
+**Link to the website** : https://markdown-preview-fawn.vercel.app/
 
 ## Project Features
 ### User Stories
