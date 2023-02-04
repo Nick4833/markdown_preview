@@ -11,12 +11,12 @@ The users can enter Mark Down code on the Code Editor on the left side of the sc
 ## Project Features
 ### User Stories
 
-- [x] User can enter Github flavored markdown into a textarea
-- [x] User can see the resulting HTML in another container/box by pressing on a button
+- ✅ User can enter Github flavored markdown into a textarea
+- ✅ User can see the resulting HTML in another container/box by pressing on a button
 ### Bonus Features
-- [x] User can see the resulting HTML updated automatically when the markdown textarea is changed
-- [x] When closing the browser window the markdown formatted text will be stored in localStorage and when the User returns, the data will be retrieved and displayed
-- [x] User can click a button and the content of the box is saved to the clipboard
+- ✅ User can see the resulting HTML updated automatically when the markdown textarea is changed
+- ✅ When closing the browser window the markdown formatted text will be stored in localStorage and when the User returns, the data will be retrieved and displayed
+- ✅ User can click a button and the content of the box is saved to the clipboard
 
 ## Technical
 ### Dependencies
